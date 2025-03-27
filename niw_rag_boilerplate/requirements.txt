@@ -1,0 +1,7 @@
+openai
+llama-index
+llama-parse
+chromadb
+fastapi
+uvicorn
+python-dotenv
